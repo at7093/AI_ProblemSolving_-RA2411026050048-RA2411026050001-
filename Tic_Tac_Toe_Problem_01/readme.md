@@ -11,3 +11,12 @@ Use the following methods:
 Compare both methods based on: 
 • Execution time (which one is faster) 
 • Number of nodes explored (how many game states are checked)
+
+
+In order to run this, make sure you have the latest version of python installed, no external packages required :
+just use your favourite Code editor or IDE and run it.
+or use
+<pre>
+  python app.py
+</pre>
+
