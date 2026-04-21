@@ -14,6 +14,12 @@ the map.Domain Assignment: It attempts to assign a color (domain value) from the
 constraint: no adjacent region can have the same color.Recursion & Backtracking: If the assignment is valid, it moves to the next region. If a conflict arises and no colors are left to try, it backtracks to
 the previous region and tries a different color
 
+Sample Input/Output :
+<img width="319" height="449" alt="image" src="https://github.com/user-attachments/assets/e1787674-542c-46af-a5d3-14acce932128" />
+<img width="714" height="797" alt="image" src="https://github.com/user-attachments/assets/ef1936b0-bda1-488d-885e-c0deb5d387c1" />
+
+
+
 Execution Steps
 To run the interactive web interface, follow these steps:
 
