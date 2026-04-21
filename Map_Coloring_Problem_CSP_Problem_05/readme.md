@@ -2,8 +2,10 @@ Problem Description :
 This project implements a solution for the Map Coloring Problem, a classic AI task categorized under Constraint Satisfaction Problems (CSP).The goal is to assign colors to various regions on a map such that no 
 two adjacent regions share the same color. The system allows users to define regions, set adjacency relationships, and select from a limited palette of colors (typically 3 or 4) via an interactive interface.
 
-<img width="818" height="317" alt="image" src="https://github.com/user-attachments/assets/f89733d5-70f6-4d71-aa18-935987621d60" />
-<img width="816" height="330" alt="image" src="https://github.com/user-attachments/assets/9db166f3-a68b-49ce-85f2-fc577d7ff064" />
+<img width="975" height="387" alt="image" src="https://github.com/user-attachments/assets/d4ad9416-5eb5-4cce-a4ae-00ab51598027" />
+<img width="995" height="411" alt="image" src="https://github.com/user-attachments/assets/f63b8f3c-c9ec-4e30-9b53-dbd934eeb52c" />
+
+
 
 
 
